@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1744.322px" height="842.609px" viewBox="4.322 0 1744.322 842.609" enable-background="new 4.322 0 1744.322 842.609"
+	 xml:space="preserve">
+<path fill="#85B24F" d="M2.527,186.128c0,0,650.881-161.775,973.11,261.24c322.229,423.012,773.008,395.241,773.008,395.241H2.527
+	V186.128z"/>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M4.028,200.729V682.69l1.385,3.881c-7.065-414.63,679.484-622.035,899.721-294.615
+				C760.727,177.271,569.852,95.981,382.084,95.999C248.518,96.013,116.487,137.176,4.028,200.729"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="802.4595" y1="-2460.6187" x2="803.9601" y2="-2460.6187" gradientTransform="matrix(482.6302 -356.092 -359.1473 -486.7714 -1271002.25 -911310.1875)">
+			<stop  offset="0" style="stop-color:#4A9A44"/>
+			<stop  offset="0.1025" style="stop-color:#539E44"/>
+			<stop  offset="0.2542" style="stop-color:#69A943"/>
+			<stop  offset="0.4354" style="stop-color:#8ABE41"/>
+			<stop  offset="0.4793" style="stop-color:#93C540"/>
+			<stop  offset="0.5393" style="stop-color:#98C644"/>
+			<stop  offset="0.6281" style="stop-color:#A3CB51"/>
+			<stop  offset="0.7348" style="stop-color:#B5D36B"/>
+			<stop  offset="0.8553" style="stop-color:#CEE08D"/>
+			<stop  offset="0.986" style="stop-color:#EFF1B9"/>
+			<stop  offset="0.9925" style="stop-color:#F0F2BB"/>
+			<stop  offset="1" style="stop-color:#F0F2BB"/>
+		</linearGradient>
+		<polygon clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" points="317.979,1119.783 1202.307,467.311 585.503,-368.675 
+			-298.826,283.796 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_4_" x="4.028" width="971.004" height="744.591"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_5_)" fill="#FFFFFF" d="M905.133,391.956L905.133,391.956
+			C707.845,98.649,219.37,75.634-103.242,379.167l-35.118-52.21C158.912,71.402,631.845,34.96,905.133,391.956"/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_6_" d="M4.028,243.958v66.313c96.708-79.261,223.29-126.189,339.702-140.525
+				c223.141-27.469,441.644,56.275,561.403,222.21c-123.159-183.1-310.344-252.161-496.995-252.159
+				C262.977,139.8,118.155,181.564,4.028,243.958"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="801.8604" y1="-2460.9585" x2="803.3604" y2="-2460.9585" gradientTransform="matrix(749.4374 124.9584 118.5299 -750.3338 -309503.5625 -1946592.25)">
+			<stop  offset="0" style="stop-color:#94C740"/>
+			<stop  offset="0.129" style="stop-color:#94C740"/>
+			<stop  offset="0.1777" style="stop-color:#97C743"/>
+			<stop  offset="0.2407" style="stop-color:#9DCA4E"/>
+			<stop  offset="0.3115" style="stop-color:#A8CF63"/>
+			<stop  offset="0.3881" style="stop-color:#B7D680"/>
+			<stop  offset="0.4694" style="stop-color:#CBE1A2"/>
+			<stop  offset="0.5531" style="stop-color:#E2EECD"/>
+			<stop  offset="0.6311" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.6646" style="stop-color:#FAFCF7"/>
+			<stop  offset="0.7118" style="stop-color:#F1F7E8"/>
+			<stop  offset="0.7671" style="stop-color:#E4EFD1"/>
+			<stop  offset="0.8287" style="stop-color:#D3E5B1"/>
+			<stop  offset="0.8953" style="stop-color:#BDD98A"/>
+			<stop  offset="0.9651" style="stop-color:#A3CD58"/>
+			<stop  offset="1" style="stop-color:#94C740"/>
+		</linearGradient>
+		<polygon clip-path="url(#SVGID_7_)" fill="url(#SVGID_8_)" points="-34.784,385.485 882.008,538.349 943.946,146.266 
+			27.152,-6.597 		"/>
+	</g>
+</g>
+</svg>
